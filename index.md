@@ -20,12 +20,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     allowfullscreen>
   </iframe>
 </div>
-*Figure 1: Demo of the thing*
-
+*Figure 1: Demo of the thing* {#figure1}
 
 ### Consectetur Adipiscing
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo, see [Figure 1](#figure1)
 
 ## List Example
 
