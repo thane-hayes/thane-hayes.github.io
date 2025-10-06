@@ -20,6 +20,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     allowfullscreen>
   </iframe>
 </div>
+*Figure 1: Demo of the thing*
+
 
 ### Consectetur Adipiscing
 
